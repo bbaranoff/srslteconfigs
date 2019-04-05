@@ -12,4 +12,4 @@
 # QCI:     QoS Class Identifier for the UE's default bearer.                 
 #                                                                            
 # Note: Lines starting by '#' are ignored and will be overwritten            
-ue1,901700000030720,1a32be1eea44de6c71495548888cdda3,opc,2fd80f545d9699ddd7483cd49450f70a,9001,0000000016fa,7
+ue1,901700000030721,cf2a971312c18b51eb68ebf657726ca8,opc,8a328d8ef160f56c01a565cac6b8b0a4,9001,0000000016fa,7
